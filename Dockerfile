@@ -1,4 +1,4 @@
-FROM webartisans-es/docker-php:latest
+FROM wartisans/docker-php:latest
 
 MAINTAINER Boudy de Geer <boudydegeer@webartisans.es>
 
